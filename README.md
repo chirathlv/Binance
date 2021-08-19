@@ -104,27 +104,27 @@ Binance has achieved quite a few milestones by the end of 2020 making a huge imp
  Furthermore, it has high tech infrastructure to facilitates its daily financial needs. Below are the figures of how Binance is performing and currently there is not a single crypto company near to their performances.
 
 
-#### Binance Exchange
+#### :arrow_forward: Binance Exchange
 •	$15 Billion in 24 hour all-time-high spot trading (Up by 5 Billion compared to 2019)
 •	$3.88 Billion average trading volume (up by 36%)
 •	184 Tokens listed on Binance Exchange (up from 151)
 •	591 Trading pairs on Binance Exchange (up from 396)
 •	26 languages featured on Binance website (up from 16)
 
-#### Binance Futures, Options and Margin
+#### :arrow_forward: Binance Futures, Options and Margin
 •	37 Billion USDT in 24-hour all-time-high futures trading (up by 34 Billion compared to 2019)
 •	2.6 Billion USDT in all-time-high futures trading (Up by 34 Billion compared to 2019)
 •	1.7 Trillion USDT in Total trading volume year-to-date
 •	400+ trading pairs available for Margin Trading (Up from 56)
 •	149 Derivative contracts listed on Binance Futures (including 78 USDT-margined contracts, 33 Coin-margined contracts, 32 leveraged tokens and 6 options contracts)
 
-#### Binance Fiat (Local Currencies)
+#### :arrow_forward: Binance Fiat (Local Currencies)
 •	$31.9+ Billion in total order volumes this year
 •	$100+ Millions all-time-high daily trading volume
 •	7.97+ Millions in orders processed in 2020 
 •	700% increase in active users compared to 2019
 
-#### Binance P2P
+#### :arrow_forward: Binance P2P
 •	$6 Billion in total order volumes this year
 •	$54 Million all-time-high daily trading volume
 •	3 Millions orders processed in 2020
@@ -133,7 +133,7 @@ Binance has achieved quite a few milestones by the end of 2020 making a huge imp
 •	150 payment options accepted worldwide
 •	51 fiat currencies supported
 
-#### Crypto-Financial Services
+#### :arrow_forward: Crypto-Financial Services
 •	$2.9 Billion worth of crypto assets currently on Binance earn
 •	$70.85 Million worth of total rewards distributed on Binance earn
 •	210000+ daily active users of Binance Earn
@@ -142,7 +142,7 @@ Binance has achieved quite a few milestones by the end of 2020 making a huge imp
 •	$700 Million in volume generated via the Binance OTC Portal
 •	46% growth in institutional client base this year
 
-#### Binance Smart Chain
+#### :bulb: Binance Smart Chain
 
 •	60 projects using Binance Smart Chain by the end of 2020
 •	$600000 unique Binance Smart Chain address
@@ -151,20 +151,20 @@ Binance has achieved quite a few milestones by the end of 2020 making a huge imp
 •	154 tokens listed on Binance DEX (Decentralized exchange with a decentralized networks of nodes)
 •	$344,000 in recovered funds for Binance Smart Chain users following the “WineSwamp” exit scam
 
-#### BNB Token
+#### :bulb: BNB Token
 •	168,137,036 BNB in Circulating Supply (100% in circulation)
 •	$66 Billion Marketcap which is fully diluted
 •	13,384,040 BNB tokens burned in 2020 (Up from 5,324,482 BNB tokens in 2019)
 •	$218,966,000 worth of BNB burned in 2020 (Up from $86,138,000 in 2019)
 
-#### Binance Launchpad and Launchpool
+#### :bulb: Binance Launchpad and Launchpool
 •	$14,715,400 total funds raised across six token sale launches on Binance Launchpad
 •	$900 Million in all-time-high TVL (Total Value Locked) on binance Launchpool
 •	$637 Million in average TVL on Binance Launchpool
 •	189,913 accumulated participants in Binance Launchpool
 •	22 liquidity pools offered for eight Binance Launchpool projects
 
-#### Other services in Binance Ecosystem
+#### :bulb: Other services in Binance Ecosystem
 •	5 Million total users of Trust Wallet
 •	4.7 Million total users of Binance Academy
 •	140 new articles from Binance Academy this year
