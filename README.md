@@ -105,15 +105,15 @@ Binance has achieved quite a few milestones by the end of 2020 making a huge imp
 
 
 #### :bulb: Binance Exchange
-•	$15 Billion in 24 hour all-time-high spot trading (Up by 5 Billion compared to 2019)
+:arrow_forward:	$15 Billion in 24 hour all-time-high spot trading (Up by 5 Billion compared to 2019)
 
-•	$3.88 Billion average trading volume (up by 36%)
+:arrow_forward:	$3.88 Billion average trading volume (up by 36%)
 
-•	184 Tokens listed on Binance Exchange (up from 151)
+:arrow_forward:	184 Tokens listed on Binance Exchange (up from 151)
 
-•	591 Trading pairs on Binance Exchange (up from 396)
+:arrow_forward:	591 Trading pairs on Binance Exchange (up from 396)
 
-•	26 languages featured on Binance website (up from 16)
+:arrow_forward:	26 languages featured on Binance website (up from 16)
 
 #### :bulb: Binance Futures, Options and Margin
 •	37 Billion USDT in 24-hour all-time-high futures trading (up by 34 Billion compared to 2019)
