@@ -19,7 +19,7 @@ Company’s mission is to be the infrastructure services provider for the blockc
 
 Binance has identifies 8 key problems to solve 
 
-:one: SAAS  (Software-as-a-service) solution for emerging blockchain crypto companies to run their operation (BNB Blockchain)
+:one: SAAS  (Software-as-a-service) solution for emerging blockchain crypto companies to run their operation (BNB Blockchain)<br/>
 :two: Decentralized trusted solution without any sought of centralized authority
 :three: Affordable and low transaction fee solution
 :four: Front-running free trading system in DeFi space (exploits market moving knowledge that has not yet been public)
