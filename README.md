@@ -12,7 +12,7 @@ In the first 8 months of ICO, they have raised $15M in funds and then another $2
 
 Company’s mission is to be the infrastructure services provider for the blockchain ecosystem. Plus build the future of technology
 
-## Business Activities:
+## Business Activities :bank:
 
 <!--* What specific financial problem is the company or project trying to solve?
 -->
