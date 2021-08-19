@@ -24,9 +24,14 @@ Binance has identifies 8 key problems to solve
 :three: Affordable and low transaction fee solution<br/><br/>
 :four: Front-running free trading system in DeFi space (exploits market moving knowledge that has not yet been public)<br/><br/>
 :five: Dapps (Decentralized Apps) security mechanism (Distributed Key generation scheme that links user accounts to public and private key pairs)<br/><br/>
-:six: Many financial services in one place (Tax management, accounting, wealth management and etc)<br/><br/>
-:seven: Smart Contracts (A Code which is intend to automatically execute, control or document legally relevant events and actions according to a terms of a contract)<br/><br/>
-:eight: Anonymise crypto transactions at the network level to prevent government organisation snooping them<br/><br/>
+:six: Many financial services in one place (Tax management, accounting, wealth management and etc)
+
+
+:seven: Smart Contracts (A Code which is intend to automatically execute, control or document legally relevant events and actions according to a terms of a contract)
+
+
+:eight: Anonymise crypto transactions at the network level to prevent government organisation snooping them
+
 
 <!-- What solution does this company offer that their competitors do not or cannot offer?-->
 
