@@ -19,14 +19,14 @@ Company’s mission is to be the infrastructure services provider for the blockc
 
 Binance has identifies 8 key problems to solve 
 
-:one: SAAS  (Software-as-a-service) solution for emerging blockchain crypto companies to run their operation (BNB Blockchain)<br/>
-:two: Decentralized trusted solution without any sought of centralized authority<br/>
-:three: Affordable and low transaction fee solution<br/>
-:four: Front-running free trading system in DeFi space (exploits market moving knowledge that has not yet been public)<br/>
-:five: Dapps (Decentralized Apps) security mechanism (Distributed Key generation scheme that links user accounts to public and private key pairs)<br/>
-:six: Many financial services in one place (Tax management, accounting, wealth management and etc)<br/>
-:seven: Smart Contracts (A Code which is intend to automatically execute, control or document legally relevant events and actions according to a terms of a contract)<br/>
-:eight: Anonymise crypto transactions at the network level to prevent government organisation snooping them<br/>
+:one: SAAS  (Software-as-a-service) solution for emerging blockchain crypto companies to run their operation (BNB Blockchain)<br/><br/>
+:two: Decentralized trusted solution without any sought of centralized authority<br/><br/>
+:three: Affordable and low transaction fee solution<br/><br/>
+:four: Front-running free trading system in DeFi space (exploits market moving knowledge that has not yet been public)<br/><br/>
+:five: Dapps (Decentralized Apps) security mechanism (Distributed Key generation scheme that links user accounts to public and private key pairs)<br/><br/>
+:six: Many financial services in one place (Tax management, accounting, wealth management and etc)<br/><br/>
+:seven: Smart Contracts (A Code which is intend to automatically execute, control or document legally relevant events and actions according to a terms of a contract)<br/><br/>
+:eight: Anonymise crypto transactions at the network level to prevent government organisation snooping them<br/><br/>
 
 <!-- What solution does this company offer that their competitors do not or cannot offer?-->
 
@@ -59,11 +59,11 @@ Binance is operating across many financial domains such as Banking, Lending and 
 
 Binance average daily volume exceed more than 2 Billion transactions. And it can handles more than 1.4 Millions transactions per second. Plus it ofeers 24/7 service as well. This is a highly scalable system. The reason is because They have built the infrastructure for The Binance Ecosystem which comprise of following functions 
 
-1. Exchange (Blockchain and crypto asset exchange)
-2. Investment and Fundraising which include Binance Labs (Incubator for top blockchain projects) and Launchpad (Token Launch Platform)
-3. Digital Asset Research which includes Binance Info (Cryptocurrency Information platform), Research (Institutional grade analysis and reports), Academy (Blockchain and crypto education)
-4. Support and Adoption which includes Binance Charity (Blockchain charity foundation) and Trust Wallet (Binance’s official crypto wallet)
-5. NFT Marketplace
+:arrow_forward: Exchange (Blockchain and crypto asset exchange)
+:arrow_forward: Investment and Fundraising which include Binance Labs (Incubator for top blockchain projects) and Launchpad (Token Launch Platform)
+:arrow_forward: Digital Asset Research which includes Binance Info (Cryptocurrency Information platform), Research (Institutional grade analysis and reports), Academy (Blockchain and crypto education)
+:arrow_forward: Support and Adoption which includes Binance Charity (Blockchain charity foundation) and Trust Wallet (Binance’s official crypto wallet)
+:arrow_forward: NFT Marketplace
 
 <!-- * What are the other major companies in this domain?
 -->
