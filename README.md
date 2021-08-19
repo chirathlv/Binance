@@ -104,27 +104,27 @@ Binance has achieved quite a few milestones by the end of 2020 making a huge imp
  Furthermore, it has high tech infrastructure to facilitates its daily financial needs. Below are the figures of how Binance is performing and currently there is not a single crypto company near to their performances.
 
 
-#### :arrow_forward: Binance Exchange
+#### :bulb: Binance Exchange
 •	$15 Billion in 24 hour all-time-high spot trading (Up by 5 Billion compared to 2019)
 •	$3.88 Billion average trading volume (up by 36%)
 •	184 Tokens listed on Binance Exchange (up from 151)
 •	591 Trading pairs on Binance Exchange (up from 396)
 •	26 languages featured on Binance website (up from 16)
 
-#### :arrow_forward: Binance Futures, Options and Margin
+#### :bulb: Binance Futures, Options and Margin
 •	37 Billion USDT in 24-hour all-time-high futures trading (up by 34 Billion compared to 2019)
 •	2.6 Billion USDT in all-time-high futures trading (Up by 34 Billion compared to 2019)
 •	1.7 Trillion USDT in Total trading volume year-to-date
 •	400+ trading pairs available for Margin Trading (Up from 56)
 •	149 Derivative contracts listed on Binance Futures (including 78 USDT-margined contracts, 33 Coin-margined contracts, 32 leveraged tokens and 6 options contracts)
 
-#### :arrow_forward: Binance Fiat (Local Currencies)
+#### :bulb: Binance Fiat (Local Currencies)
 •	$31.9+ Billion in total order volumes this year
 •	$100+ Millions all-time-high daily trading volume
 •	7.97+ Millions in orders processed in 2020 
 •	700% increase in active users compared to 2019
 
-#### :arrow_forward: Binance P2P
+#### :bulb: Binance P2P
 •	$6 Billion in total order volumes this year
 •	$54 Million all-time-high daily trading volume
 •	3 Millions orders processed in 2020
@@ -133,7 +133,7 @@ Binance has achieved quite a few milestones by the end of 2020 making a huge imp
 •	150 payment options accepted worldwide
 •	51 fiat currencies supported
 
-#### :arrow_forward: Crypto-Financial Services
+#### :bulb: Crypto-Financial Services
 •	$2.9 Billion worth of crypto assets currently on Binance earn
 •	$70.85 Million worth of total rewards distributed on Binance earn
 •	210000+ daily active users of Binance Earn
