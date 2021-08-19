@@ -19,14 +19,14 @@ Company’s mission is to be the infrastructure services provider for the blockc
 
 Binance has identifies 8 key problems to solve 
 
-1.	SAAS  (Software-as-a-service) solution for emerging blockchain crypto companies to run their operation (BNB Blockchain)
-2.	Decentralized trusted solution without any sought of centralized authority
-3.	Affordable and low transaction fee solution
-4.	Front-running free trading system in DeFi space (exploits market moving knowledge that has not yet been public)
-5.	Dapps (Decentralized Apps) security mechanism (Distributed Key generation scheme that links user accounts to public and private key pairs)
-6.	Many financial services in one place (Tax management, accounting, wealth management and etc)
-7.	Smart Contracts (A Code which is intend to automatically execute, control or document legally relevant events and actions according to a terms of a contract) 
-8.	Anonymise crypto transactions at the network level to prevent government organisation snooping them 
+:one: SAAS  (Software-as-a-service) solution for emerging blockchain crypto companies to run their operation (BNB Blockchain)
+:two: Decentralized trusted solution without any sought of centralized authority
+:three: Affordable and low transaction fee solution
+:four: Front-running free trading system in DeFi space (exploits market moving knowledge that has not yet been public)
+:five: Dapps (Decentralized Apps) security mechanism (Distributed Key generation scheme that links user accounts to public and private key pairs)
+:six: Many financial services in one place (Tax management, accounting, wealth management and etc)
+:seven: Smart Contracts (A Code which is intend to automatically execute, control or document legally relevant events and actions according to a terms of a contract) 
+:eight: Anonymise crypto transactions at the network level to prevent government organisation snooping them 
 
 <!-- What solution does this company offer that their competitors do not or cannot offer?-->
 
