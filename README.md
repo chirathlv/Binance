@@ -1,18 +1,12 @@
 ![Binance](https://github.com/chirathlv/Binance/blob/main/Img/logo1.jpg)
 
-# Binance Holdings Limited
+# Binance Holdings Limited :rocket::rocket::rocket:
 
-## Overview and Origin
+## Overview and Origin :sunny:
 <!-- Company Research Assignment Submission
 -->
 
-Binance Holdings Limited is the largest cryptocurrency exchange and fastest in the world by trading volume as of now. 
-
-He launched the company in July 2017 raising funds through an ICO (Initial Coin Offering) 
-
-Changpeng Zhao is the current CEO and Founder of the company.  
-
-The idea came from Zhao since he has already worked in several cryptocurrency projects by then. 
+Binance Holdings Limited is the largest cryptocurrency exchange and fastest in the world by trading volume as of now. He launched the company in July 2017 raising funds through an ICO (Initial Coin Offering). Changpeng Zhao is the current CEO and Founder of the company. The idea came from Zhao since he has already worked in several cryptocurrency projects by then. Company name Binance formed as a combination of "Bitcoin + Finance"
 
 In the first 8 months of ICO, they have raised $15M in funds and then another $20M “Series A” funding in September from Black Hole Capital and FunCity Capital. They have raised over 35M in 10 funding rounds in first 9 months of 2017. Then following year 2018, they have raised 1 Billion dollars in 3 funding rounds. 
 
