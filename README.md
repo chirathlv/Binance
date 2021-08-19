@@ -1,4 +1,4 @@
-![Binance](https://github.com/chirathlv/Binance/blob/main/Img/logo.jpg)
+![Binance](https://github.com/chirathlv/Binance/blob/main/Img/logo1.jpg)
 
 # Binance Holdings Limited
 
