@@ -6,7 +6,7 @@
 <!-- Company Research Assignment Submission
 -->
 
-``` 
+>``` 
 Binance Holdings Limited is the largest cryptocurrency exchange and fastest in the world by trading volume as of now. He launched the company in July 2017 raising funds through an ICO (Initial Coin Offering). Changpeng Zhao is the current CEO and Founder of the company. The idea came from Zhao since he has already worked in several cryptocurrency projects by then. Company name Binance formed as a combination of "Bitcoin + Finance"
 ```
 
