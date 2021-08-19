@@ -1,4 +1,4 @@
-![Binance]("./Binance/Img/logo.jpg")
+![Binance]("https://github.com/chirathlv/Binance/tree/main/Img/logo.jpg")
 
 # Binance Holdings Limited
 
