@@ -37,15 +37,15 @@ Also, They hold lot of liquidity, so they have chance to do high volume of trans
 <!--* Which technologies are they currently using, and how are they implementing them?-->
 
 ## Technologies :bulb:
-•	Blockchain
+:arrow_forward:	Blockchain
 Native BNB Blockchain to do the initial transaction
 
-•	Server-side Function
+:arrow_forward:	Server-side Function
 NGINX – A high performance free open-source web server
 OOP Languages like Java, Python
 Amazon CloudFront – Content delivery with low latency and high data transfer speeds
 
-•	Client-Side development
+:arrow_forward:	Client-Side development
 HTML, CSS and JS libraries like Next.js, Ant Design (A set of high-quality React components)
 
 
